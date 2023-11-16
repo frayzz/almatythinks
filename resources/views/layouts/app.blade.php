@@ -12,6 +12,10 @@
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 
+    <!-- Favicon -->
+    <link type="image/x-icon" href="{{ asset('assets/images/favicon.png') }}" rel="shortcut icon">
+    <link type="Image/x-icon" href="{{ asset('assets/images/favicon.png') }}" rel="icon">
+
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
